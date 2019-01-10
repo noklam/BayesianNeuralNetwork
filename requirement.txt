@@ -1,0 +1,3 @@
+pyro-ppl
+pytorch>=1.0.0
+  

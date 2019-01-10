@@ -5,3 +5,6 @@ The dataset is a common retail data contain store, item, daily sales and is a go
 
 Benchmark dataset: Rossmann Store Sales
 https://www.kaggle.com/c/rossmann-store-sales
+
+# Installation
+`pip install -r requirement.txt`
