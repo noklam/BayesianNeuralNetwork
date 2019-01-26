@@ -21,6 +21,10 @@ The dataset is a common retail data contain store, item, daily sales and is a go
 Benchmark dataset: Rossmann Store Sales
 https://www.kaggle.com/c/rossmann-store-sales
 
+# Python Time Series Forecasting Library
+
+Prophet (Facebook)  :Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth. 
+
 # Installation
 `pip install -r requirement.txt`
 
