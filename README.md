@@ -1,7 +1,7 @@
 # Time Series Forecast Studies
 ## Motivation
 While neural network have gain a lot of success in NLP and computer vision, there are relatively less changes for traditional time series forecasting.
-This repository aims to study the lastest techni for time series prediction, with either statistical method, machine learning or deep neural network. I will also try to summarize practical solution from Kaggles.
+This repository aims to study the lastest practical technique for time series prediction, with either statistical method, machine learning or deep neural network. I will also try to summarize practical solution from Kaggles.
 
 # Summary of Kaggle Competition Results
 
@@ -25,4 +25,4 @@ https://www.kaggle.com/c/rossmann-store-sales
 `pip install -r requirement.txt`
 
 # Contribution
-I try to use this repository to summarize my research and finding, but any contribution are welcome
+I try to use this repository to summarize my research and finding, but any contribution are welcome.
