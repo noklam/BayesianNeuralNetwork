@@ -11,11 +11,12 @@ This repository aims to study the lastest practical technique for time series pr
   - [Deep Neural Network](#deep-neural-network)
 - [Prediction Interval](#prediction-interval)
 - [Python Time Series Forecasting Library](#python-time-series-forecasting-library)
-- [Installation](#installation)
 - [Contribution](#contribution)
 
-
 # Summary of Kaggle Competition Results
+Result are store at data/competition_results.csv
+
+
 
 # Forecasting Methods
 ## Statistical Method
@@ -26,6 +27,7 @@ This repository aims to study the lastest practical technique for time series pr
 
 
 # Prediction Interval
+
 While forecasting accuracy is important, the prediction interval is also important and it is an area that the machine learning world has less focus on.
 This repo started with the idea testing performance of Bayesian Neural Network on time series data. The Rossman Store Sales data will be used as a benchmark dataset. 
 
@@ -36,10 +38,7 @@ https://www.kaggle.com/c/rossmann-store-sales
 
 # Python Time Series Forecasting Library
 
-Prophet (Facebook)  :Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth. 
-
-# Installation
-`pip install -r requirement.txt`
+[Prophet (Facebook)](https://github.com/facebook/prophet): Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth. It has build-in modelling for Holiday effect.
 
 # Contribution
-I try to use this repository to summarize my research and finding, but any contribution are welcome.
+I use this repository to summarize my findings, any contribution is welcome.
