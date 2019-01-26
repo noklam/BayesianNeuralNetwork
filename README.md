@@ -23,3 +23,6 @@ https://www.kaggle.com/c/rossmann-store-sales
 
 # Installation
 `pip install -r requirement.txt`
+
+# Contribution
+I try to use this repository to summarize my research and finding, but any contribution are welcome
