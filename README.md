@@ -2,14 +2,27 @@
 ## Motivation
 While neural network have gain a lot of success in NLP and computer vision, there are relatively less changes for traditional time series forecasting.
 This repository aims to study the lastest practical technique for time series prediction, with either statistical method, machine learning or deep neural network. I will also try to summarize practical solution from Kaggles.
+- [Time Series Forecast Studies](#time-series-forecast-studies)
+  - [Motivation](#motivation)
+- [Summary of Kaggle Competition Results](#summary-of-kaggle-competition-results)
+- [Forecasting Methods](#forecasting-methods)
+  - [Statistical Method](#statistical-method)
+  - [Machine Learning](#machine-learning)
+  - [Deep Neural Network](#deep-neural-network)
+- [Prediction Interval](#prediction-interval)
+- [Python Time Series Forecasting Library](#python-time-series-forecasting-library)
+- [Installation](#installation)
+- [Contribution](#contribution)
+
 
 # Summary of Kaggle Competition Results
 
-# Statistical Method
+# Forecasting Methods
+## Statistical Method
 
-# Machine Learning
+## Machine Learning
 
-# Deep Neural Network
+## Deep Neural Network
 
 
 # Prediction Interval
