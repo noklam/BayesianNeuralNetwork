@@ -1,3 +1,17 @@
+---
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .md
+      format_name: markdown
+      format_version: '1.0'
+      jupytext_version: 0.8.6
+  kernelspec:
+    display_name: Python 3
+    language: python
+    name: python3
+---
+
 # Time Series Forecast Studies
 ## Motivation
 While neural network have gain a lot of success in NLP and computer vision, there are relatively less changes for traditional time series forecasting.
@@ -41,7 +55,7 @@ While forecasting accuracy is important, the prediction interval is also importa
 [pyts](https://johannfaouzi.github.io/pyts/) : state-of-the-art algorithms for time series transformation and classification
 
 # Contribution
-I use this repository to summarize my findings, any contribution is welcome.
+I use this repository to summarize my findings, any discussion are welcome.
 
 # Under Review
 * https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/
