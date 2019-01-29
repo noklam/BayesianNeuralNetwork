@@ -1,1 +1,0 @@
-# Script for generating result html table from csv

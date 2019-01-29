@@ -22,12 +22,12 @@ results = pd.read_csv('data/competition_results.csv')
 
 results['Date'] = pd.to_datetime(results["Date"], format="%m/%d/%Y")
 
-results
+results.columns
 
 # # Header
 
-header = ['Competition names', 'Date', 'Rank', 'Model', 'Model Link', 'Metrics',
-       'Metrics Link', 'Score']
+header = ['Competition Name', 'Type', 'Date', 'Model', 'Rank', 'Model Link',
+       'Metrics', 'Metrics Link', 'Public Score', 'Private Score', 'Remark']
 
 def generate_header(ls):
     table = '<tr>'
@@ -65,7 +65,3 @@ print(table)
 
 with open('table.md', 'w', encoding='utf-8') as f:
     f.write(table)
-
-results.to_html()
-
-
