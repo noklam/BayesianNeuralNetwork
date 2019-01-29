@@ -45,7 +45,7 @@ def generate_rows(ls):
     for row in results.iterrows():
         rows = rows + '<tr>'
         for element in row[1].values:            
-            rows = rows + f"<td><p>{element}</p></td>"
+            rows = rows + f"<td><b>{element}</b></td>"
         rows = rows + '</tr>'        
     
     return rows
@@ -63,7 +63,9 @@ table = generate_table(results[header])
 
 print(table)
 
-with open('table.md', 'w') as f:
+with open('table.md', 'w', encoding='utf-8') as f:
     f.write(table)
+
+results.to_html()
 
 

@@ -1,3 +1,17 @@
+---
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .md
+      format_name: markdown
+      format_version: '1.0'
+      jupytext_version: 0.8.6
+  kernelspec:
+    display_name: Python 3
+    language: python
+    name: python3
+---
+
 # Time Series Forecast Studies
 ## Motivation
 While neural network have gain a lot of success in NLP and computer vision, there are relatively less changes for traditional time series forecasting.
@@ -24,7 +38,7 @@ This repository aims to study the lastest practical technique for time series pr
 
 ## Deep Neural Network
 
-
+```python
 # Prediction Interval
 While forecasting accuracy is important, the prediction interval is also important and it is an area that the machine learning world has less focus on.
 This repo started with the idea testing performance of Bayesian Neural Network on time series data. The Rossman Store Sales data will be used as a benchmark dataset. 
@@ -43,3 +57,8 @@ Prophet (Facebook)  :Tool for producing high quality forecasts for time series d
 
 # Contribution
 I try to use this repository to summarize my research and finding, but any contribution are welcome.
+```
+
+```python
+
+```

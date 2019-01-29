@@ -1,1 +1,39 @@
-<table><tr><th><b>Competition names</b></th><th><b>Date</b></th><th><b>Rank</b></th><th><b>Model</b></th><th><b>Model Link</b></th><th><b>Metrics</b></th><th><b>Metrics Link</b></th><th><b>Score</b></th></tr><tr><td><b>Corporación Favorita Grocery Sales Forecasting</b></td><td><b>2018-01-01 00:00:00</b></td><td><b>1</b></td><td><b>lgbm + cnn</b></td><td><b>https://github.com/sjvasquez/web-traffic-forecasting/blob/master/cnn.py</b></td><td><b>RMSE</b></td><td><b>https://github.com/sjvasquez/web-traffic-forecasting/blob/master/cnn.py</b></td><td><b>0.5</b></td></tr><tr><td><b>Corporación Favorita Grocery Sales Forecasting</b></td><td><b>2018-01-01 00:00:00</b></td><td><b>1</b></td><td><b>lgbm + cnn</b></td><td><b>https://github.com/sjvasquez/web-traffic-forecasting/blob/master/cnn.py</b></td><td><b>RMSE</b></td><td><b>https://github.com/sjvasquez/web-traffic-forecasting/blob/master/cnn.py</b></td><td><b>0.4</b></td></tr></table>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Competition names</th>
+      <th>Date</th>
+      <th>Rank</th>
+      <th>Model</th>
+      <th>Model Link</th>
+      <th>Metrics</th>
+      <th>Metrics Link</th>
+      <th>Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Corporación Favorita Grocery Sales Forecasting</td>
+      <td>2018-01-01</td>
+      <td>1</td>
+      <td>lgbm + cnn</td>
+      <td>https://github.com/sjvasquez/web-traffic-forec...</td>
+      <td>RMSE</td>
+      <td>https://github.com/sjvasquez/web-traffic-forec...</td>
+      <td>0.5</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Corporación Favorita Grocery Sales Forecasting</td>
+      <td>2018-01-01</td>
+      <td>10</td>
+      <td>lgbm + cnn</td>
+      <td>https://github.com/sjvasquez/web-traffic-forec...</td>
+      <td>RMSE</td>
+      <td>https://github.com/sjvasquez/web-traffic-forec...</td>
+      <td>0.4</td>
+    </tr>
+  </tbody>
+</table>

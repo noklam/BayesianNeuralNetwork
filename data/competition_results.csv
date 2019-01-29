@@ -1,3 +1,3 @@
 ﻿Competition names,Date,Rank,Model,Model Link,Metrics,Metrics Link,Score
 Corporación Favorita Grocery Sales Forecasting,1/1/2018,1,lgbm + cnn,https://github.com/sjvasquez/web-traffic-forecasting/blob/master/cnn.py,RMSE,https://github.com/sjvasquez/web-traffic-forecasting/blob/master/cnn.py,0.5
-Corporación Favorita Grocery Sales Forecasting,1/1/2018,1,lgbm + cnn,https://github.com/sjvasquez/web-traffic-forecasting/blob/master/cnn.py,RMSE,https://github.com/sjvasquez/web-traffic-forecasting/blob/master/cnn.py,0.4
+Corporación Favorita Grocery Sales Forecasting,1/1/2018,10,lgbm + cnn,https://github.com/sjvasquez/web-traffic-forecasting/blob/master/cnn.py,RMSE,https://github.com/sjvasquez/web-traffic-forecasting/blob/master/cnn.py,0.4
