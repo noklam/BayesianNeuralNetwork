@@ -1,3 +1,5 @@
+(Deprecated, update in https://github.com/noklam/Learning-Machine)
+
 # Time Series Forecast Studies
 ## Motivation
 While neural network have gain a lot of success in NLP and computer vision, there are relatively less changes for traditional time series forecasting.
